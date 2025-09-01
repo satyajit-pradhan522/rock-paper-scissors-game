@@ -25,6 +25,6 @@ Play against the computer and see who wins! 🎮
 
 ## 📸 Screenshot  
 
-![Rock Paper Scissors Screenshot](./screenshot.png) 
+![Rock Paper Scissors Screenshot](RockPaperScissorsGame/Screenshot.png) 
 
 ---
